@@ -11,13 +11,13 @@
 <a href="https://www.linkedin.com/in/ayush-kadam-8334531b6/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 <br />
 
 <div>
-<img align="left" alt="GIF" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" width="400" height="320" />
   
-<span align="right">  
+<span align="left">  
 
 hello, i'm Ayush bhishek Kadam, a passionate self-taught full stack web developer and a freelance software engineer from india and self-motivated constantly experimenting with new technologies and techniques. I am very passionate about Web Development and strive to better myself as a developer, and the development community as a whole.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -30,8 +30,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </span>
 
 </div>
-**languages and tools:** 
 
+<b>**languages and tools:** </b>
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue-thumbnail.png"></code>
