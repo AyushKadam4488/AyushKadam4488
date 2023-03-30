@@ -43,7 +43,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919825.png?w=740&t=st=1680188322~exp=1680188922~hmac=21280377b2fdd07b5f041ad5ff1a451d821b466d659073ab760c1299c419fb82"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/59/97/png-clipart-green-leaf-mongodb-inc-computer-software-business-software-developer-bay-leaves-leaf-company-thumbnail.png
+<code><img height="20" src="[https://e7.pngegg.com/pngimages/59/97/png-clipart-green-leaf-mongodb-inc-computer-software-business-software-developer-bay-leaves-leaf-company-thumbnail.png](https://e7.pngegg.com/pngimages/32/30/png-clipart-mongodb-inc-website-development-nosql-data-mysql-text-logo-thumbnail.png)
 "></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
