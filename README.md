@@ -1,25 +1,11 @@
 # Ayush
 
 ### hey there 
-<a href="https://www.instagram.com/ayush.4488/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-<a href="https://twitter.com/Ayush___7">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ayush-kadam-8334531b6/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br/>
-<br />
-
 <div>
 <img align="right" alt="GIF" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" width="400" height="320" />
   
 <span align="left">  
-
-hello, i'm Ayush bhishek Kadam, a passionate self-taught full stack web developer and a freelance software engineer from india and self-motivated constantly experimenting with new technologies and techniques. I am very passionate about Web Development and strive to better myself as a developer, and the development community as a whole.
+ i'm Ayush bhishek Kadam, a passionate self-taught full stack web developer and a freelance software engineer from india and self-motivated constantly experimenting with new technologies and techniques. I am very passionate about Web Development and strive to better myself as a developer, and the development community as a whole.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
@@ -49,6 +35,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## Connect and follow:
+<a href="https://www.instagram.com/ayush.4488/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
+<a href="https://twitter.com/Ayush___7">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ayush-kadam-8334531b6/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
