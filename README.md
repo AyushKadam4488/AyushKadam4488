@@ -3,8 +3,11 @@
 <img align="right" alt="GIF" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" width="400" height="320" />
   
 <span align="left">  
- i'm Ayush Kadam, a passionate self-taught full stack web developer and a freelance software engineer from india and self-motivated constantly experimenting with new technologies and techniques. I am very passionate about Web Development and strive to better myself as a developer, and the development community as a whole.
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm Ayush Kadam, a passionate self-taught full stack web developer and a freelance software engineer from india and self-motivated constantly experimenting with new technologies and techniques. 
+  
+I'm very passionate about Web Development and strive to better myself as a developer, and the development community as a whole.
+  
+I'm also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   
