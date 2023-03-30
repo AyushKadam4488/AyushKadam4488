@@ -4,8 +4,7 @@
   
 <span align="left">  
 I'm Ayush Kadam, a passionate self-taught full stack web developer and a freelance software engineer from india and self-motivated constantly experimenting with new technologies and techniques. 
-  
-  
+  <br/>
 I'm very passionate about Web Development and strive to better myself as a developer, and the development community as a whole.
   
 I'm also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
