@@ -6,7 +6,7 @@
 I am a self-motivated youngster who has been doing coding practices scince school and constantly experimenting with new technologies and techniques. I am very passionate about Development and strive to better myself as a developer, and the development community as a whole.
   <br> <br>
 - 🌐 <a href="https://ayush-kadam.netlify.app/" style="text-decoration: none;" >ayush kadam.web</a>   <br>
-- 💼 any freelance work? do reach, [email](mailto:ayushsunilkadam@gmail.com) :) <br>
+- 💼 any freelance work? do reach, ayushsunilkadam@gmail.com :) <br>
 - 💬 ask me about anything, i am happy to help;
 
 </span>
