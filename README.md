@@ -38,7 +38,7 @@ I'm very passionate about Web Development, open-source enthusiast and strive to 
 </a>
 
 <a href="https://twitter.com/Ayush___7">
-  <img align="left" alt="Ayush Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ayush Naidu | Twitter" width="22px" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle.png" />
 </a>
 <a href="https://www.linkedin.com/in/ayush-kadam-8334531b6/">
   <img align="left" alt="Ayush LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
